@@ -8,6 +8,6 @@ This repository provides R code implementing spatially clustered regression for 
 The repository includes the following 2 files.
 
 * LAS-function.R : Script implementing the proposed method
-* simulation.R : Script applying the proposed prios and some existing ones to simulated datasets 
+* Simulation.R : Script applying the proposed prios and some existing ones to simulated datasets 
 
 
