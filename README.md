@@ -9,5 +9,7 @@ The repository includes the following 2 files.
 
 * LAS-function.R : Script implementing the proposed method
 * Simulation.R : Script applying the proposed prios and some existing ones to simulated datasets 
+* Data_Analysis.R : Script applying shrinkage priors to summary statistics of prostate cancer data
+* prostz.RData : Prostate cancer data (used in `Data_Analysis.R`)
 
 
